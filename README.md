@@ -35,7 +35,7 @@ npm install
 ### Set Up API Keys
 Create a `keys.js` file in `frontend/src/services/` and add:
 ```js
-export const BALDONTLIE_API_KEY = "your_api_key_here";
+const API_KEY = "your_api_key_here";
 ```
 Ensure `**/keys.js` is added to `.gitignore` to prevent committing API keys.
 
