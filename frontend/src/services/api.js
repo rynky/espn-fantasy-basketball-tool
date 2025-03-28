@@ -1,5 +1,5 @@
-// balldontlie API
-const API_KEY = "0c53d04d-50d5-4471-ab36-b87b79dcc357";
+import API_KEY from './keys'
+
 const BASE_URL = "https://api.balldontlie.io/v1";
 
 export const searchPlayers = async (firstName, lastName) => {
