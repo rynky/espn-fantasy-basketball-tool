@@ -4,7 +4,7 @@
 The **ESPN Fantasy Basketball Tool** is a web-based application designed to track and analyze NBA player trends for **ESPN Fantasy Men's Basketball**. Using the **balldontlie API**, this tool helps users make informed decisions by providing real-time statistics, performance trends, and key insights.
 
 ## Features
-- **Search & Filter Players**: Look up NBA players and filter them by position, team, or other stats.
+- **Search for Players**: Look up NBA players and filter them by position, team, or other stats.
 - **Trending Players**: Displays a list of the most popular or high-performing players.
 - **Player Profiles**: View detailed player information, including stats, team details, and position.
 - **Fantasy Insights**: Analyze performance trends to make strategic decisions in fantasy basketball.
