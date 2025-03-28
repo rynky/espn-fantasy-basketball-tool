@@ -8,7 +8,7 @@ The **ESPN Fantasy Basketball Tool** is a web-based application designed to trac
 - **Trending Players**: Displays a list of the most popular or high-performing players.
 - **Player Profiles**: View detailed player information, including stats, team details, and position.
 - **Fantasy Insights**: Analyze performance trends to make strategic decisions in fantasy basketball.
-- **ESPN Fantasy Integration** (Planned) – Future updates may include ESPN Fantasy API integration.
+- **ESPN Fantasy Integration: Coming Soon!**
 
 ## Tech Stack
 - **Frontend:** React, JavaScript, HTML, CSS
